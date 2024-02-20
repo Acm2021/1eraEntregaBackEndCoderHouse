@@ -68,9 +68,10 @@ class ProductManager{
 
 
 //TEST 
-const instancia = new ProductManager();
+/*const instancia = new ProductManager();
 instancia.addProduct("Mi_prodcuto","Descripción", 20.99, "imagen.jpg", "ABC123", 50);
 instancia.addProduct("Mi_prodcuto2","Descripción2", 20.992, "imagen2.jpg", "ABC1232", 50);
 instancia.addProduct("Mi_prodcuto2","Descripción2", 20.992, "imagen2.jpg", "ABC1233", 50);
 instancia.getProducts();
 instancia.getProductById(4)
+*/
